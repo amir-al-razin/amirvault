@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "457e0a5161f3e79e",
+        "id": "8ba708dc962bca75",
         "type": "tabs",
         "children": [
           {
-            "id": "81642c721a309aac",
+            "id": "5946f35ecd13ba32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prompt text dumps/30-06-26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "30-06-26"
+              "title": "New tab"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt text dumps/30-06-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30-06-26"
+              "title": "Outline"
             }
           },
           {
@@ -208,8 +203,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8a3ed03912da130e",
+  "active": "5946f35ecd13ba32",
   "lastOpenFiles": [
+    "prompt text dumps/30-06-26.md",
     "tariq - arabic learning",
     "copilot/copilot-conversations/You_are_my_long-term_English_fluency_coach._Analyze_._Ignore@20260630_184110.md",
     "copilot/copilot-conversations",
@@ -222,7 +218,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "prompt text dumps/30-06-26.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "Untitled.base",
     "Welcome.md",
