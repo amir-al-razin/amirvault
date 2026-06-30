@@ -166,16 +166,6 @@
             }
           },
           {
-            "id": "b16c3240ec530e71",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "70b9a6bd6fdeafb4",
             "type": "leaf",
             "state": {
@@ -208,7 +198,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "85a12db93c6de823",
+  "active": "a5709cf63cf8c9d0",
   "lastOpenFiles": [
     "README.md",
     "Untitled.canvas",
