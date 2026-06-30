@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4fcde3b09b8cbd3",
@@ -176,7 +177,7 @@
             }
           },
           {
-            "id": "4664cbdd00a37a69",
+            "id": "8a3ed03912da130e",
             "type": "leaf",
             "state": {
               "type": "antigravity-terminal-view",
@@ -190,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 830.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +209,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4664cbdd00a37a69",
+  "active": "8a3ed03912da130e",
   "lastOpenFiles": [
+    "tariq - arabic learning",
     "copilot/copilot-conversations/You_are_my_long-term_English_fluency_coach._Analyze_._Ignore@20260630_184110.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Summarize.md",
