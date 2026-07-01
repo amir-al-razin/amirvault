@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba708dc962bca75",
+        "id": "3eaefb66c057fb84",
         "type": "tabs",
         "children": [
           {
-            "id": "5946f35ecd13ba32",
+            "id": "053f5cefe860cf66",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-01 14.51.20.excalidraw.md"
+                "file": "prompt text dumps/1-7-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-01 14.51.20.excalidraw"
-            }
-          },
-          {
-            "id": "802ed1b6e54095cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-01 18.17.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-01 18.17.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "1-7-26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4fcde3b09b8cbd3",
@@ -221,19 +209,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "802ed1b6e54095cd",
+  "active": "053f5cefe860cf66",
   "lastOpenFiles": [
+    "prompt text dumps/1-7-26.md",
     "Excalidraw/Drawing 2026-07-01 14.51.20.excalidraw.md",
+    "Untitled.canvas",
+    "2026-07-01.md",
     "Excalidraw/Drawing 2026-07-01 18.17.05.excalidraw.md",
     "Deen/6 laws.md",
     "Untitled.md",
     "Deen/Videos that touched me.md",
     "mindset",
-    "prompt text dumps/1-7-26.md",
     "prompt text dumps/30-06-26.md",
     "Excalidraw",
     "Deen",
-    "2026-07-01.md",
     "tariq - arabic learning",
     "copilot/copilot-conversations/You_are_my_long-term_English_fluency_coach._Analyze_._Ignore@20260630_184110.md",
     "copilot/copilot-conversations",
@@ -249,13 +238,11 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "Untitled.base",
     "Welcome.md",
-    "Untitled.canvas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "README.md",
     "create a link.md",
     "2026-03-05.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "prompt text dumps"
