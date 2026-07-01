@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20820a1adc45a48e",
+        "id": "114dddba66f99dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "180aae3beae08457",
+            "id": "80c862612d2fa79f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,9 +174,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "antigravity-cli-sidebar:Open Antigravity CLI": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180aae3beae08457",
-  "lastOpenFiles": []
+  "active": "80c862612d2fa79f",
+  "lastOpenFiles": [
+    "2026-07-01.md",
+    "Deen/Videos that touched me.md"
+  ]
 }
