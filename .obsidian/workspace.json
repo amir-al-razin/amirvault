@@ -35,8 +35,7 @@
               "title": "2-7-26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +223,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "56da8eee80a6c68c",
+  "active": "053f5cefe860cf66",
   "lastOpenFiles": [
     "prompt text dumps/1-7-26.md",
     "prompt text dumps/30-06-26.md",
